@@ -18,9 +18,9 @@ After executing this command:
 
 ##### Available options:
 
-  * __-h _host_ __		(default: localhost)
-  * __-p _port_ __		(default: 3000)
-  * __-t _target_ __	(default: localhost)
+  * -h _host_  (default: localhost)
+  * -p _port_  (default: 3000)
+  * -t _target_  (default: localhost)
 
 
 ### Using as local dependency
