@@ -1,6 +1,6 @@
 {
   "name": "no-cors-proxy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple proxy that add cors header to server responses",
   "main": "./lib",
   "bin": {
