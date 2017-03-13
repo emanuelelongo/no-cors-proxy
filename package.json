@@ -1,0 +1,17 @@
+{
+  "name": "no-cors-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy that add cors header to server responses",
+  "main": "./lib/index.js",
+  "bin": {
+    "cors-proxy": "bin/index.js"
+  },
+  "preferGlobal": true,
+  "keywords": ["http", "proxy", "web", "cors"],
+  "author": "Emanuele Longo",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "yargs": "^7.0.2"
+  }
+}
